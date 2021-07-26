@@ -1,8 +1,6 @@
 
 # Expenses-tracker   
 
-![badge](https://img.shields.io/badge/license--orange)<br />
-
 ## Description
 This app allows you to keeo track of your spending habits when your on the go, with the expenxe tracker you can manage your money even if you are on hike through andes mountains or underwater. This is made possible my offline sustainability and the ability to download the wweb app right to your local machine whether it be a computer or phone you will never lose track of your money with expense tracker.
 
